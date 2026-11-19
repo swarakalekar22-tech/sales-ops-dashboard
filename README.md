@@ -4,7 +4,7 @@ An interactive dashboard for a fictional consumer goods distributor
 operating across India. It tracks revenue, sales pipeline, win rate and
 order fulfillment, and turns them into plain-language insights.
 
-**Live demo:** _add your Vercel/Netlify link here_
+**Live demo:** https://sales-ops-dashboard-gamma.vercel.app
 
 > **About the data:** all data is **simulated** (see
 > `src/data/mockData.ts`). The company, customers and figures are
